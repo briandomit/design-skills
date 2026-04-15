@@ -11,7 +11,7 @@
 | **prototype** | Interactive single-file HTML prototype generation |
 | **review** | Design evaluation — coaching mode or structured 25-principle analysis |
 | **cleanup** | Prototype file maintenance (dead code, inline styles, duplication) |
-| **evaluate-interview-guide** | Interview guide quality check against 7 dimensions |
+| **interview-guide-analysis** | Interview guide quality check against 7 dimensions |
 | **design-pipeline** | Automated Blueprint prototype pipeline (Plan > Build > Evaluate) |
 
 ## Workflow
@@ -20,7 +20,7 @@
 define > research (discovery) > prototype > review > research (usability) > cleanup
 ```
 
-- **evaluate-interview-guide** — use anytime before fieldwork
+- **interview-guide-analysis** — use anytime before fieldwork
 - **design-pipeline** — optional shortcut for prototype + review (Blueprint only)
 
 ## Installation
