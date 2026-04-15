@@ -1,5 +1,5 @@
 ---
-name: evaluate-interview-guide
+name: interview-guide-analysis
 description: Analyze a discovery or generative interview guide and return inline edit recommendations. Evaluates against 7 dimensions: purpose clarity, open-ended questions, non-leading questions, use of stories and examples, avoidance of hypotheticals, avoidance of solution-seeking, and past-behavior focus. Use when the user shares an interview guide (pasted text, Word file, Excel file, or Confluence link) and wants feedback before running fieldwork. Also triggers on: 'check my interview guide', 'review my discussion guide', 'is this a good interview guide', 'fix my interview questions'. To generate a new interview guide from scratch, use the research skill first.
 ---
 
